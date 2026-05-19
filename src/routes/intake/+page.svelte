@@ -1,6 +1,6 @@
 <div class="mx-auto mt-10 max-w-2x1 rounded-1g border border-gray-700 bg-gray-950 p-8"> 
- <h1 class="mb-6 text-2xl font-bold text-cyan-400"›New Client Intake</h1>
- <label for='firstname' class="mb-1 block text-sm text-gray-300"›First Name</label>
+ <h1 class="mb-6 text-2xl font-bold text-cyan-400">New Client Intake</h1>
+ <label for='firstname' class="mb-1 block text-sm text-gray-300">First Name</label>
  <input
   id = 'firstname'
   type="text"
